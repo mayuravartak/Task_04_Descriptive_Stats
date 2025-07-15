@@ -1,0 +1,189 @@
+Processing dataset: C:/Mayura/Research_Analyst/period_03/2024_fb_ads_president_scored_anon.csv
+
+Overall Statistics:
+estimated_audience_size - Count: 246745, Mean: 556462.8559687126, Min: 0.0, Max: 1000001.0, Std Dev: 409863.9282788759
+estimated_impressions - Count: 246745, Mean: 45601.52595189366, Min: 499.0, Max: 1000000.0, Std Dev: 136790.49271020087
+estimated_spend - Count: 246745, Mean: 1061.2914344768892, Min: 49.0, Max: 474999.0, Std Dev: 4992.550631940592
+scam_illuminating - Count: 246745, Mean: 0.07163265719670105, Min: 0.0, Max: 1.0, Std Dev: 0.257878691674285
+election_integrity_Truth_illuminating - Count: 246745, Mean: 0.05008814768283045, Min: 0.0, Max: 1.0, Std Dev: 0.21812685562427525
+advocacy_msg_type_illuminating - Count: 246745, Mean: 0.5486311779367363, Min: 0.0, Max: 1.0, Std Dev: 0.4976293887347144
+issue_msg_type_illuminating - Count: 246745, Mean: 0.38164907090315914, Min: 0.0, Max: 1.0, Std Dev: 0.48579116663635885
+attack_msg_type_illuminating - Count: 246745, Mean: 0.27185555938316885, Min: 0.0, Max: 1.0, Std Dev: 0.44491585071295586
+image_msg_type_illuminating - Count: 246745, Mean: 0.22270360088350322, Min: 0.0, Max: 1.0, Std Dev: 0.4160609414941812
+cta_msg_type_illuminating - Count: 246745, Mean: 0.5727694583476869, Min: 0.0, Max: 1.0, Std Dev: 0.4946762637642767
+engagement_cta_subtype_illuminating - Count: 246745, Mean: 0.12486980485926767, Min: 0.0, Max: 1.0, Std Dev: 0.33057122786727233
+fundraising_cta_subtype_illuminating - Count: 246745, Mean: 0.22848689943058623, Min: 0.0, Max: 1.0, Std Dev: 0.4198578762143011
+voting_cta_subtype_illuminating - Count: 246745, Mean: 0.1438448600782184, Min: 0.0, Max: 1.0, Std Dev: 0.35093235289339764
+covid_topic_illuminating - Count: 246745, Mean: 0.024875884009807697, Min: 0.0, Max: 1.0, Std Dev: 0.15574682791164093
+economy_topic_illuminating - Count: 246745, Mean: 0.12212202881517356, Min: 0.0, Max: 1.0, Std Dev: 0.3274266923957781
+education_topic_illuminating - Count: 246745, Mean: 0.01432653143934021, Min: 0.0, Max: 1.0, Std Dev: 0.11883300019884126
+environment_topic_illuminating - Count: 246745, Mean: 0.02124865752092241, Min: 0.0, Max: 1.0, Std Dev: 0.14421217727529445
+foreign_policy_topic_illuminating - Count: 246745, Mean: 0.005264544367667025, Min: 0.0, Max: 1.0, Std Dev: 0.07236593770737645
+governance_topic_illuminating - Count: 246745, Mean: 0.025641856977851627, Min: 0.0, Max: 1.0, Std Dev: 0.15806439241201364
+health_topic_illuminating - Count: 246745, Mean: 0.10918964923301384, Min: 0.0, Max: 1.0, Std Dev: 0.31187701058812467
+immigration_topic_illuminating - Count: 246745, Mean: 0.03356906928205232, Min: 0.0, Max: 1.0, Std Dev: 0.18011714762783995
+lgbtq_issues_topic_illuminating - Count: 246745, Mean: 0.0032300553202699142, Min: 0.0, Max: 1.0, Std Dev: 0.05674171360558219
+military_topic_illuminating - Count: 246745, Mean: 0.002176335893331172, Min: 0.0, Max: 1.0, Std Dev: 0.04660042333939221
+race_and_ethnicity_topic_illuminating - Count: 246745, Mean: 0.01243388923787716, Min: 0.0, Max: 1.0, Std Dev: 0.1108119471731156
+safety_topic_illuminating - Count: 246745, Mean: 0.03372307442906645, Min: 0.0, Max: 1.0, Std Dev: 0.1805154527460685
+social_and_cultural_topic_illuminating - Count: 246745, Mean: 0.10583801090194331, Min: 0.0, Max: 1.0, Std Dev: 0.3076301778926499
+technology_and_privacy_topic_illuminating - Count: 246745, Mean: 0.0011550386026059293, Min: 0.0, Max: 1.0, Std Dev: 0.0339662257019001
+womens_issue_topic_illuminating - Count: 246745, Mean: 0.08090944092078867, Min: 0.0, Max: 1.0, Std Dev: 0.2726959906024914
+incivility_illuminating - Count: 246745, Mean: 0.18752558309185596, Min: 0.0, Max: 1.0, Std Dev: 0.39033285639043425
+freefair_illuminating - Count: 246745, Mean: 0.006415530203246266, Min: 0.0, Max: 1.0, Std Dev: 0.07983965916421175
+fraud_illuminating - Count: 246745, Mean: 0.0026383513343735433, Min: 0.0, Max: 1.0, Std Dev: 0.05129708019575728
+page_id - Unique Values: 4475, Most Frequent Value: 4d66f5853f0365dba032a87704a634f023d15babde973bb7a284ed8cd2707b2d, Count: 55503
+ad_id - Unique Values: 246745, Most Frequent Value: 0ddb025b8544e2d58e6977ad417e742a52522b3e1fc1c9d9b61c57148f8d72fc, Count: 1
+ad_creation_time - Unique Values: 547, Most Frequent Value: 2024-10-27, Count: 8619
+bylines - Unique Values: 3791, Most Frequent Value: HARRIS FOR PRESIDENT, Count: 49788
+currency - Unique Values: 18, Most Frequent Value: USD, Count: 246599
+delivery_by_region - Unique Values: 141122, Most Frequent Value: {}, Count: 30989
+demographic_distribution - Unique Values: 215622, Most Frequent Value: {}, Count: 30989
+publisher_platforms - Unique Values: 9, Most Frequent Value: ['facebook', 'instagram'], Count: 214434
+illuminating_scored_message - Unique Values: 26338, Most Frequent Value: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855, Count: 5972
+illuminating_mentions - Unique Values: 278, Most Frequent Value: [], Count: 73205
+
+
+Processing dataset: C:/Mayura/Research_Analyst/period_03/2024_fb_posts_president_scored_anon.csv
+Overall Statistics:
+Total Interactions - Count: 14398, Mean: 2210.154813168496, Min: 0.0, Max: 470087.0, Std Dev: 13066.168583849912
+Likes - Count: 19009, Mean: 2377.6954074385817, Min: 0.0, Max: 351979.0, Std Dev: 11253.173660942848
+Comments - Count: 19009, Mean: 901.583197432795, Min: 0.0, Max: 93872.0, Std Dev: 3681.88324663013
+Shares - Count: 19009, Mean: 320.53895523173236, Min: 0.0, Max: 76150.0, Std Dev: 1722.114579655435
+Love - Count: 19009, Mean: 413.87732126887266, Min: 0.0, Max: 244482.0, Std Dev: 3730.842312335024
+Wow - Count: 19009, Mean: 5.8683255300120996, Min: 0.0, Max: 4345.0, Std Dev: 52.945585921667245
+Haha - Count: 19009, Mean: 105.71971171550318, Min: 0.0, Max: 99276.0, Std Dev: 942.0094692244772
+Sad - Count: 19009, Mean: 10.172181598190331, Min: 0.0, Max: 56111.0, Std Dev: 418.31400356540394
+Angry - Count: 19009, Mean: 20.05550002630333, Min: 0.0, Max: 11814.0, Std Dev: 156.01598493667757
+Care - Count: 19009, Mean: 34.92903361565574, Min: 0.0, Max: 85236.0, Std Dev: 790.0824307108217
+Post Views - Count: 16544, Mean: 6485.058510638298, Min: 0.0, Max: 4276477.0, Std Dev: 90390.22650804598
+Total Views - Count: 16544, Mean: 7461.847014023211, Min: 0.0, Max: 4462155.0, Std Dev: 95973.37816684392
+Total Views For All Crossposts - Count: 16544, Mean: 3555.9379835589943, Min: 0.0, Max: 4499458.0, Std Dev: 88091.38586181619
+Overperforming Score - Count: 16544, Mean: -2.744160420696325, Min: -198.75, Max: 246.78, Std Dev: 7.8082409618565265
+advocacy_msg_type_illuminating - Count: 19009, Mean: 0.549266137092956, Min: 0.0, Max: 1.0, Std Dev: 0.49756692789607515
+issue_msg_type_illuminating - Count: 19009, Mean: 0.4603082750276185, Min: 0.0, Max: 1.0, Std Dev: 0.49842207712812725
+attack_msg_type_illuminating - Count: 19009, Mean: 0.2166868325530012, Min: 0.0, Max: 1.0, Std Dev: 0.4119874380987227
+image_msg_type_illuminating - Count: 19009, Mean: 0.14856120784891366, Min: 0.0, Max: 1.0, Std Dev: 0.35565541662033706
+cta_msg_type_illuminating - Count: 19009, Mean: 0.1328318165079699, Min: 0.0, Max: 1.0, Std Dev: 0.3393928771072883
+engagement_cta_subtype_illuminating - Count: 19009, Mean: 0.0908517018254511, Min: 0.0, Max: 1.0, Std Dev: 0.2873981038574723
+fundraising_cta_subtype_illuminating - Count: 19009, Mean: 0.01841233100110474, Min: 0.0, Max: 1.0, Std Dev: 0.13443703756112188
+voting_cta_subtype_illuminating - Count: 19009, Mean: 0.023409963701404597, Min: 0.0, Max: 1.0, Std Dev: 0.15120164450462673
+covid_topic_illuminating - Count: 19009, Mean: 0.05239623336314377, Min: 0.0, Max: 1.0, Std Dev: 0.22282474748667114
+economy_topic_illuminating - Count: 19009, Mean: 0.09037824188542269, Min: 0.0, Max: 1.0, Std Dev: 0.2867228893533314
+education_topic_illuminating - Count: 19009, Mean: 0.014992898100899574, Min: 0.0, Max: 1.0, Std Dev: 0.12152411739007042
+environment_topic_illuminating - Count: 19009, Mean: 0.022252617181335158, Min: 0.0, Max: 1.0, Std Dev: 0.14750402777523094
+foreign_policy_topic_illuminating - Count: 19009, Mean: 0.03687726866221264, Min: 0.0, Max: 1.0, Std Dev: 0.1884604354187574
+governance_topic_illuminating - Count: 19009, Mean: 0.03109053606186543, Min: 0.0, Max: 1.0, Std Dev: 0.1735624228606275
+health_topic_illuminating - Count: 19009, Mean: 0.04866116050291967, Min: 0.0, Max: 1.0, Std Dev: 0.21515866694471955
+immigration_topic_illuminating - Count: 19009, Mean: 0.04082276816244937, Min: 0.0, Max: 1.0, Std Dev: 0.19787943238751288
+lgbtq_issues_topic_illuminating - Count: 19009, Mean: 0.0033668262402020096, Min: 0.0, Max: 1.0, Std Dev: 0.05792659770149026
+military_topic_illuminating - Count: 19009, Mean: 0.0055763059603345785, Min: 0.0, Max: 1.0, Std Dev: 0.07446617199891045
+race_and_ethnicity_topic_illuminating - Count: 19009, Mean: 0.021568730601294123, Min: 0.0, Max: 1.0, Std Dev: 0.14527050788629783
+safety_topic_illuminating - Count: 19009, Mean: 0.032195275921931714, Min: 0.0, Max: 1.0, Std Dev: 0.17651838468058334
+social_and_cultural_topic_illuminating - Count: 19009, Mean: 0.06170761218370246, Min: 0.0, Max: 1.0, Std Dev: 0.2406237369468944
+technology_and_privacy_topic_illuminating - Count: 19009, Mean: 0.0020516597401230995, Min: 0.0, Max: 1.0, Std Dev: 0.04524876166740762
+womens_issue_topic_illuminating - Count: 19009, Mean: 0.0254616234415277, Min: 0.0, Max: 1.0, Std Dev: 0.15752247196273153
+incivility_illuminating - Count: 19009, Mean: 0.1278867904676732, Min: 0.0, Max: 1.0, Std Dev: 0.33396370954274457
+scam_illuminating - Count: 18060, Mean: 0.020210409745293468, Min: 0.0, Max: 1.0, Std Dev: 0.1407193983899193
+freefair_illuminating - Count: 19009, Mean: 0.0028407596401704457, Min: 0.0, Max: 1.0, Std Dev: 0.053223018749759245
+fraud_illuminating - Count: 19009, Mean: 0.00862749224051765, Min: 0.0, Max: 1.0, Std Dev: 0.0924827476784587
+Facebook_Id - Unique Values: 21, Most Frequent Value: 32fc18da91029ff09bf74fe9887eace6b5d2145809d583f696e344530508b064, Count: 9013
+post_id - Unique Values: 19009, Most Frequent Value: 8570b69695e00d8f06b12398ed525497e1712b5369c6fc2138fe98f69811c138, Count: 1
+Page Category - Unique Values: 7, Most Frequent Value: PERSON, Count: 9453
+Page Admin Top Country - Unique Values: 2, Most Frequent Value: US, Count: 16280
+Post Created - Unique Values: 18951, Most Frequent Value: 2023-11-14 11:11:44 EST, Count: 2
+Post Created Date - Unique Values: 425, Most Frequent Value: 2024-10-31, Count: 103
+Post Created Time - Unique Values: 16102, Most Frequent Value: 19:42:00, Count: 7
+Type - Unique Values: 10, Most Frequent Value: Link, Count: 7404
+Video Share Status - Unique Values: 4, Most Frequent Value: , Count: 15738
+Is Video Owner? - Unique Values: 4, Most Frequent Value: -, Count: 13280
+Video Length - Unique Values: 775, Most Frequent Value: , Count: 15738
+Sponsor Id - Unique Values: 1, Most Frequent Value: , Count: 19009
+Sponsor Name - Unique Values: 1, Most Frequent Value: , Count: 19009
+Sponsor Category - Unique Values: 1, Most Frequent Value: , Count: 19009
+illuminating_scored_messageelection_integrity_Truth_illuminating - Unique Values: 1, Most Frequent Value: , Count: 19009
+Total Interactions - Unique Values: 3332, Most Frequent Value: 1,139, Count: 7
+scam_illuminating - Unique Values: 1, Most Frequent Value: , Count: 949
+Post Views - Unique Values: 1, Most Frequent Value: , Count: 2465
+Total Views - Unique Values: 1, Most Frequent Value: , Count: 2465
+Total Views For All Crossposts - Unique Values: 1, Most Frequent Value: , Count: 2465
+Overperforming Score - Unique Values: 1, Most Frequent Value: , Count: 2465
+
+
+Processing dataset: C:/Mayura/Research_Analyst/period_03/2024_tw_posts_president_scored_anon.csv
+Overall Statistics:
+retweetCount - Count: 27304, Mean: 1322.0551933782597, Min: 0.0, Max: 144615.0, Std Dev: 3404.9418860146225
+replyCount - Count: 27304, Mean: 1063.7850131848813, Min: 0.0, Max: 121270.0, Std Dev: 3174.9235122787168
+likeCount - Count: 27304, Mean: 6913.69282888954, Min: 0.0, Max: 915221.0, Std Dev: 21589.912616632584
+quoteCount - Count: 27304, Mean: 128.08156314093173, Min: 0.0, Max: 123320.0, Std Dev: 1131.512746792056
+viewCount - Count: 27304, Mean: 507084.7318341635, Min: 5.0, Max: 333502775.0, Std Dev: 3212115.163351335
+bookmarkCount - Count: 27304, Mean: 136.21352182830356, Min: 0.0, Max: 42693.0, Std Dev: 712.5672453544692
+election_integrity_Truth_illuminating - Count: 26034, Mean: 0.03714373511561804, Min: 0.0, Max: 1.0, Std Dev: 0.1891139287764887
+advocacy_msg_type_illuminating - Count: 26034, Mean: 0.5636859491434278, Min: 0.0, Max: 1.0, Std Dev: 0.495927514745553
+issue_msg_type_illuminating - Count: 26034, Mean: 0.507682261657832, Min: 0.0, Max: 1.0, Std Dev: 0.49994097937238613
+attack_msg_type_illuminating - Count: 26034, Mean: 0.3075977567795959, Min: 0.0, Max: 1.0, Std Dev: 0.4614990539575964
+image_msg_type_illuminating - Count: 26034, Mean: 0.22643466236460014, Min: 0.0, Max: 1.0, Std Dev: 0.4185236027327846
+cta_msg_type_illuminating - Count: 26034, Mean: 0.10966428516555274, Min: 0.0, Max: 1.0, Std Dev: 0.31247084619957916
+engagement_cta_subtype_illuminating - Count: 26034, Mean: 0.0669124990397173, Min: 0.0, Max: 1.0, Std Dev: 0.24987039943133946
+fundraising_cta_subtype_illuminating - Count: 26034, Mean: 0.007874318199277867, Min: 0.0, Max: 1.0, Std Dev: 0.08838729157618978
+voting_cta_subtype_illuminating - Count: 26034, Mean: 0.016785741722363065, Min: 0.0, Max: 1.0, Std Dev: 0.12846781930582143
+covid_topic_illuminating - Count: 26034, Mean: 0.0076054390412537455, Min: 0.0, Max: 1.0, Std Dev: 0.08687690336472358
+economy_topic_illuminating - Count: 26034, Mean: 0.16021356687408772, Min: 0.0, Max: 1.0, Std Dev: 0.3668040074257231
+education_topic_illuminating - Count: 26034, Mean: 0.01843742797879696, Min: 0.0, Max: 1.0, Std Dev: 0.13452690893766805
+environment_topic_illuminating - Count: 26034, Mean: 0.028539602058846123, Min: 0.0, Max: 1.0, Std Dev: 0.1665085378386611
+foreign_policy_topic_illuminating - Count: 26034, Mean: 0.042252439118076364, Min: 0.0, Max: 1.0, Std Dev: 0.2011645359069277
+governance_topic_illuminating - Count: 26034, Mean: 0.022969962356917877, Min: 0.0, Max: 1.0, Std Dev: 0.14980768734026853
+health_topic_illuminating - Count: 26034, Mean: 0.05565798571099332, Min: 0.0, Max: 1.0, Std Dev: 0.2292600583127994
+immigration_topic_illuminating - Count: 26034, Mean: 0.06529922409157256, Min: 0.0, Max: 1.0, Std Dev: 0.2470531024387493
+lgbtq_issues_topic_illuminating - Count: 26034, Mean: 0.0030729046631328264, Min: 0.0, Max: 1.0, Std Dev: 0.05534854939439807
+military_topic_illuminating - Count: 26034, Mean: 0.010985634170699855, Min: 0.0, Max: 1.0, Std Dev: 0.10423507093376684
+race_and_ethnicity_topic_illuminating - Count: 26034, Mean: 0.015402934623953292, Min: 0.0, Max: 1.0, Std Dev: 0.1231490325943469
+safety_topic_illuminating - Count: 26034, Mean: 0.03760467081508796, Min: 0.0, Max: 1.0, Std Dev: 0.19023816532961213
+social_and_cultural_topic_illuminating - Count: 26034, Mean: 0.05197050011523392, Min: 0.0, Max: 1.0, Std Dev: 0.22196749138783
+technology_and_privacy_topic_illuminating - Count: 26034, Mean: 0.0020357993393254974, Min: 0.0, Max: 1.0, Std Dev: 0.04507388224210889
+womens_issue_topic_illuminating - Count: 26034, Mean: 0.02331566413152032, Min: 0.0, Max: 1.0, Std Dev: 0.1509040885384702
+incivility_illuminating - Count: 26034, Mean: 0.17857417223630637, Min: 0.0, Max: 1.0, Std Dev: 0.3829953488574298
+scam_illuminating - Count: 26034, Mean: 0.012368441269109626, Min: 0.0, Max: 1.0, Std Dev: 0.1105235854000503
+freefair_illuminating - Count: 27304, Mean: 0.0014283621447406974, Min: 0.0, Max: 1.0, Std Dev: 0.03776667745942405
+fraud_illuminating - Count: 27304, Mean: 0.0027468502783474947, Min: 0.0, Max: 1.0, Std Dev: 0.05233837112383072
+inReplyToId - Count: 3345, Mean: 1.7582857247419999e+18, Min: 1.2400673584227e+18, Max: 1.853530653414859e+18, Std Dev: 4.360544623583901e+16
+quoteId - Count: 3287, Mean: 1.7642983966589504e+18, Min: 7.912639390153769e+17, Max: 1.8535761683325583e+18, Std Dev: 6.8936377884959416e+16
+id - Unique Values: 27304, Most Frequent Value: cc46051622b8a9c1b883a3bbf12c640b12ac1cbdc7f48a773b6cc2a65f03aa2d, Count: 1
+url - Unique Values: 27304, Most Frequent Value: f70a206472e9deaf6e313297c1efb891729ced346a0aeb34e16935d78f74b937, Count: 1
+source - Unique Values: 14, Most Frequent Value: Twitter Web App, Count: 14930
+createdAt - Unique Values: 27014, Most Frequent Value: 2023-10-06 04:55:21, Count: 4
+lang - Unique Values: 12, Most Frequent Value: en, Count: 27281
+isReply - Unique Values: 2, Most Frequent Value: False, Count: 23930
+isRetweet - Unique Values: 1, Most Frequent Value: False, Count: 27304
+isQuote - Unique Values: 2, Most Frequent Value: False, Count: 24064
+isConversationControlled - Unique Values: 2, Most Frequent Value: False, Count: 27296
+quoteId - Unique Values: 1, Most Frequent Value: , Count: 24017
+inReplyToId - Unique Values: 1, Most Frequent Value: , Count: 23959
+month_year - Unique Values: 15, Most Frequent Value: 2024-10, Count: 3586
+illuminating_scored_message - Unique Values: 27136, Most Frequent Value: 36cb7d55fcf85362ca03f624c2f574f1f55f89db559b17da084df6e643afe5cd, Count: 21
+election_integrity_Truth_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+advocacy_msg_type_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+issue_msg_type_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+attack_msg_type_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+image_msg_type_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+cta_msg_type_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+engagement_cta_subtype_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+fundraising_cta_subtype_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+voting_cta_subtype_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+covid_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+economy_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+education_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+environment_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+foreign_policy_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+governance_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+health_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+immigration_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+lgbtq_issues_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+military_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+race_and_ethnicity_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+safety_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+social_and_cultural_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+technology_and_privacy_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+womens_issue_topic_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+incivility_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
+scam_illuminating - Unique Values: 1, Most Frequent Value: , Count: 1270
